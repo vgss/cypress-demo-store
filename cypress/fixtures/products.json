@@ -1,0 +1,22 @@
+{
+    "categories": [
+        "Accessories",
+        "Bags",
+        "Hats",
+        "Home & Living",
+        "Shirts",
+        "Sweatshirts"
+    ],
+    "products": [
+        {
+            "productId": "TSHIRTMS000000FFFFFFLXXX",
+            "productName": "Black Men T-Shirt with White Logo",
+            "originalPrice": "$44.40",
+            "currentPrice": "$39.70",
+            "currentPriceInteger": 39.70,
+            "productInfo": "This is THE classic t-shirt. Its fine jersey cotton construction makes it extremely soft and comfortable to wear, so it's a good choice for a day-to-day outfit — it's durable and can withstand several washings while retaining its shape and color.",
+            "similarProducts": 13,
+            "productUrl": "black-men-t-shirt-with-white-logo-l"
+        }
+    ]       
+}
